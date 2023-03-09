@@ -1,4 +1,4 @@
-# pizza_project
+# pizza_api
 Tel-Ran Final project
 
 REST-API для получения данных сети пиццерий.
