@@ -24,4 +24,5 @@ REST-API для получения данных сети пиццерий.
 5. Запрашивает список пицц из конкретной пиццерии
 
 ER диаграмма базы данных
-![Database ER diagram](https://github.com/deithwein/pizza_api/assets/114694984/4e42da3b-39ac-4585-a059-b6259ccf0b06)
+![Database ER diagram](https://github.com/deithwein/pizza_api/assets/114694984/c7784c03-36ef-4278-a66a-feae381e7470)
+
